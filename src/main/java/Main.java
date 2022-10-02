@@ -6,5 +6,6 @@ public class Main {
         System.out.println("2do mensaje en el notebook");
         System.out.println("2do mensaje en el compu");
         System.out.println("3er mensaje en el notebook");
+        System.out.println("3er mensaje en el compu");
     }
 }
